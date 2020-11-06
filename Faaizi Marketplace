@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T03:49:20.515Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="kFGMhUXUZZFVQpHyBH3W" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T03:51:00.419Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ozwOpA_ulKtdhKE-jQaS" version="13.9.2" type="github">
   <diagram id="nxBKu5cDnvqLFf8PML5i" name="Page-1">
     <mxGraphModel dx="1113" dy="1793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -252,6 +252,9 @@
         </mxCell>
         <mxCell id="9UMF5G5FZwUOpot4t-SD-91" value="2. send patch request&lt;br&gt;to update user information" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="787.5" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9UMF5G5FZwUOpot4t-SD-92" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Fai Zi Consumer App - API Requirements&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="66" y="-60" width="723.75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
