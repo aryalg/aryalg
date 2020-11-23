@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-11-23T12:45:25.998Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" version="13.9.2" etag="lifiDvN2VHAXUpW8GbGP" type="github"><diagram id="eSIcBnxXUN93XpWS7rIu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-23T12:55:50.240Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="dftAcHp_Yrf4v2q7LZlm" version="13.9.2" type="github">
+  <diagram id="eSIcBnxXUN93XpWS7rIu" name="Page-1">
+    <mxGraphModel dx="788" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3YwGhAgxkNKJW-sFHWki-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3YwGhAgxkNKJW-sFHWki-2" value="1. I have to manage my wallets and bank account" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="150" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3YwGhAgxkNKJW-sFHWki-5" value="2. I want to track my expenses" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="170" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3YwGhAgxkNKJW-sFHWki-6" value="3. I want to track my income" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="190" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3YwGhAgxkNKJW-sFHWki-7" value="4. I want to maintain daily/weekly todo list" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="210" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3YwGhAgxkNKJW-sFHWki-8" value="5. I want to focus on my work" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="230" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3YwGhAgxkNKJW-sFHWki-9" value="6. I want be a most productive person" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="250" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3YwGhAgxkNKJW-sFHWki-10" value="7. I want to get into spirituality" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="270" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3YwGhAgxkNKJW-sFHWki-11" value="8. I want to sleep better" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="290" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3YwGhAgxkNKJW-sFHWki-12" value="9. I want to be motivated all the time" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="310" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3YwGhAgxkNKJW-sFHWki-14" value="10. I want to have a better day routine. Create routine based on my requirement" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="340" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3YwGhAgxkNKJW-sFHWki-15" value="11. I want my data to be synced across my add devices" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="370" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3YwGhAgxkNKJW-sFHWki-16" value="12. I want to use application even when I am not connected to the internet." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="390" width="300" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
