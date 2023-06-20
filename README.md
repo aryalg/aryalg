@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **flutter, react, swift, javascript**
 
-- 📫 How to reach me **bikramaryal@bitpointx.com.au**
+- 📫 How to reach me **bikram@aryalspace.com**
 
 
 <h3 align="left">Connect with me:</h3>
