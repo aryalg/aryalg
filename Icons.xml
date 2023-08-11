@@ -217,5 +217,12 @@
     "w": 520,
     "h": 468,
     "title": "Google Maps"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTAwIiB2aWV3Qm94PSIxNC4zMiA0Ljg3OTYxNDk0IDM3Ljg1NjI2NTg3IDUyLjc5MDM4NTA2IiBoZWlnaHQ9IjI1MDAiPjxwYXRoIGZpbGw9IiMxYTczZTgiIGQ9Im0zNy4zNCA3LjgyYy0xLjY4LS41My0zLjQ4LS44Mi01LjM0LS44Mi01LjQzIDAtMTAuMjkgMi40NS0xMy41NCA2LjMxbDguMzUgNy4wMnoiLz48cGF0aCBmaWxsPSIjZWE0MzM1IiBkPSJtMTguNDYgMTMuMzFhMTcuNjE1IDE3LjYxNSAwIDAgMCAtNC4xNCAxMS4zNmMwIDMuMzIuNjYgNi4wMiAxLjc1IDguNDNsMTAuNzQtMTIuNzd6Ii8+PHBhdGggZmlsbD0iIzQyODVmNCIgZD0ibTMyIDE3LjkyYTYuNzY0IDYuNzY0IDAgMCAxIDUuMTYgMTEuMTNsMTAuNTItMTIuNTFhMTcuNjg0IDE3LjY4NCAwIDAgMCAtMTAuMzUtOC43MWwtMTAuNTEgMTIuNTFhNi43NCA2Ljc0IDAgMCAxIDUuMTgtMi40MiIvPjxwYXRoIGZpbGw9IiNmYmJjMDQiIGQ9Im0zMiAzMS40NGMtMy43MyAwLTYuNzYtMy4wMy02Ljc2LTYuNzZhNi43IDYuNyAwIDAgMSAxLjU4LTQuMzRsLTEwLjc1IDEyLjc3YzEuODQgNC4wNyA0Ljg5IDcuMzQgOC4wMyAxMS40NmwxMy4wNi0xNS41MmE2Ljc1MiA2Ljc1MiAwIDAgMSAtNS4xNiAyLjM5Ii8+PHBhdGggZmlsbD0iIzM0YTg1MyIgZD0ibTM2LjkgNDguOGM1LjktOS4yMiAxMi43Ny0xMy40MSAxMi43Ny0yNC4xMyAwLTIuOTQtLjcyLTUuNzEtMS45OS04LjE1bC0yMy41NyAyOC4wNWMxIDEuMzEgMi4wMSAyLjcgMi45OSA0LjI0IDMuNTggNS41NCAyLjU5IDguODYgNC45IDguODZzMS4zMi0zLjMzIDQuOS04Ljg3Ii8+PC9zdmc+\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"1200\" height=\"1200\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1200,
+    "h": 1200,
+    "title": "google-maps-2020-icon",
+    "aspect": "fixed"
   }
 ]</mxlibrary>
