@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, This is Bikram Aryal</h1>
 <h3 align="center">Full Stack Developer || Entrepreneur</h3>
 
-- 🌱 I’m currently working on following tech stacks **Flutter || Swift || Java Spring Boot || Node || MongoDB || MySQL || React || Docker || Typescript**
+- 🌱 I’m currently working on following tech stacks **Flutter || Swift || Kotlin || Java Spring Boot || Node || MongoDB || MySQL || React || Docker || Typescript**
 
 
-- 💬 Ask me about **flutter, java, react, swift, javascript**
+- 💬 Ask me about **flutter, java, react, swift, kotlin, javascript**
 
 - 📫 How to reach me **bikram@aryalspace.com**
 
